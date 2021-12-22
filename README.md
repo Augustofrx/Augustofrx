@@ -1,3 +1,4 @@
+
 <h1>🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
 
 <h3>tengo 22 años⚖️, me apasiona el diseño, la fotografía y la programación. </h3>
@@ -22,4 +23,5 @@
 <h3>Figma</h3>
 <br>
 <h2>Pongámonos en contacto...</h2>
-<h3>📩 Email: augustoiphar99@hotmail.com</h3>
+<h3>📩 Email: Augustoiphar99@hotmail.com</h3>
+<h3>🧐 LinkedIn: https://www.linkedin.com/in/augustoiphar-dev/</h3>
