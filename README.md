@@ -3,7 +3,7 @@
 
 <h3>tengo 22 años, me apasiona el diseño, la fotografía, la música y la programación. </h3>
 <h3> Disfruto de compartir tiempo con otras personas y de ayudar 🙌🏼 </h3>
-<h3>Durante mi formación descubrí que me gusta mucho el Frontend, ya que es allí donde puedo poner en practica mis habilidades de diseño y me desempeño mejor 😁</h3>
+<h3>Durante mi formación como Full-Stack Web Developer descubrí que me gusta mucho el Frontend, ya que es allí donde puedo poner en practica mis habilidades de diseño y me desempeño mejor 😁</h3>
 <h3>Me considero una persona muy capaz de lograr los objetivos que se pone en mente, me gusta estar en constante aprendizaje y siempre me gusta dar lo mejor de mi 💪🏼 </h3>
 <br>
 <h2>🧩 Mis Tech Skills:</h2>
