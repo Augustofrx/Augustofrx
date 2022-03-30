@@ -11,6 +11,7 @@
 <h3>CSS3</h3>
 <h3>JavaScript</h3>
 <h3>React & Redux | Hooks</h3>
+<h3>NextJS</h3>
 <h3>NodeJS</h3>
 <h3>Express</h3>
 <h3>Sequelize</h3>
