@@ -16,6 +16,7 @@
 <h3>JavaScript</h3>
 <h3>TypeScript</h3>
 <h3>React & Redux | Hooks</h3>
+<h3>NextJS</h3>
 <h3>Vue</h3>
 <h3>Vuex</h3>
 <h3>Nuxt</h3>
@@ -24,7 +25,6 @@
 <h3>DaisyUI</h3>
 <h3>Nest</h3>
 <h3>Arquitectura Hexagonal</h3>
-<h3>NextJS</h3>
 <h3>Loopback</h3>
 <h3>NodeJS</h3>
 <h3>Express</h3>
