@@ -1,10 +1,14 @@
 
 <h1>🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
 
-<h3>tengo 23 años, me apasiona el diseño, la fotografía, la música y la programación. </h3>
-<h3> Disfruto de compartir tiempo con otras personas y de ayudar 🙌🏼 </h3>
-<h3>Durante mi formación como Full-Stack Web Developer descubrí que me gusta mucho el Frontend, ya que es allí donde puedo poner en practica mis habilidades de diseño y me desempeño mejor 😁</h3>
-<h3>Me considero una persona muy capaz de lograr los objetivos que se pone en mente, me gusta estar en constante aprendizaje y siempre me gusta dar lo mejor de mi 💪🏼 </h3>
+ <p>  Soy Augusto, un Desarrollador Web FullStack con más de un año de experiencia formal.</p>
+              <p>A mis 24 años, me identifico como una persona apasionada por el aprendizaje continuo, con la capacidad de trabajar de manera efectiva tanto en equipos colaborativos como de forma independiente.</p>
+ <p>Me considero creativo, capaz de liderar y transformar ideas complejas en soluciones a través de código.</p>
+<p>Estoy en búsqueda de integrarme a un equipo donde pueda aportar mis conocimientos y seguir evolucionando profesionalmente.</p>
+<p>Para mi son muy importantes los principios como el respeto, la honestidad y la disposición para ayudar en todo momento.</p> 
+<p>Mi experiencia se basa en la ejecución de proyectos donde he creado soluciones adaptadas a los gustos y necesidades del cliente y mi enfoque se caracteriza por la responsabilidad y la atención a los detalles.</p>
+<p>Estoy emocionado por la oportunidad de aportar valor con mi experiencia y habilidades en un entorno dinámico que fomente el crecimiento profesional.</p> <p> ¡Espero formar parte de un equipo pronto y seguir construyendo éxitos juntos! 🚀</p> 
+            
 <br>
 <h2>🧩 Mis Tech Skills:</h2>
 <h3>HTML5</h3>
