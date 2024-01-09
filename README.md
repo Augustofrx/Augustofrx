@@ -40,5 +40,5 @@
 <h3>Figma</h3>
 <br>
 <h2>Pongámonos en contacto...</h2>
-<h3>📩 Email: Augustoiphar99@hotmail.com</h3>
+<h3>📩 Email: ipharaugusto@gmail.com</h3>
 <h3>🧐 LinkedIn: https://www.linkedin.com/in/augustofrx/</h3>
