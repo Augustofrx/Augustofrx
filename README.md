@@ -1,7 +1,7 @@
 
 <h1>🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
 
- <p>  Soy Augusto, un Desarrollador Web FullStack con más de un año de experiencia formal.</p>
+ <p>  Un Desarrollador Web FullStack con más de un año de experiencia formal.</p>
               <p>A mis 24 años, me identifico como una persona apasionada por el aprendizaje continuo, con la capacidad de trabajar de manera efectiva tanto en equipos colaborativos como de forma independiente.</p>
  <p>Me considero creativo, capaz de liderar y transformar ideas complejas en soluciones a través de código.</p>
 <p>Estoy en búsqueda de integrarme a un equipo donde pueda aportar mis conocimientos y seguir evolucionando profesionalmente.</p>
