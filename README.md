@@ -1,4 +1,4 @@
-
+<div  style="background-color: black; color: white; padding: 20px;">
 <h1 style="background-color: #292929">🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
 
  <p>  Un Desarrollador Web FullStack con más de un año de experiencia formal.</p>
@@ -42,3 +42,4 @@
 <h2>Pongámonos en contacto...</h2>
 <h3>📩 Email: ipharaugusto@gmail.com</h3>
 <h3>🧐 LinkedIn: https://www.linkedin.com/in/augustofrx/</h3>
+<div>
