@@ -9,29 +9,33 @@
             
 <br>
 <h2>🧩 Mis Tech Skills:</h2>
-<h3>HTML5</h3>
-<h3>CSS3</h3>
-<h3>JavaScript</h3>
-<h3>TypeScript</h3>
-<h3>React & Redux | Hooks</h3>
-<h3>NextJS</h3>
-<h3>Vue</h3>
-<h3>Vuex</h3>
-<h3>Nuxt</h3>
-<h3>TailwindCSS</h3>
-<h3>Bootstrap</h3>
-<h3>DaisyUI</h3>
-<h3>Nest</h3>
-<h3>Arquitectura Hexagonal</h3>
-<h3>Loopback</h3>
-<h3>NodeJS</h3>
-<h3>Express</h3>
-<h3>Sequelize</h3>
-<h3>PostgreSQL</h3>
-<h3>SyBase</h3>
-<h3>MongoDB</h3> 
-<h3>MySQL</h3> 
-<h3>Git & GitHub</h3>
+<h3>Frontend</h3>
+<p>HTML5</p>
+<p>CSS3</p>
+<p>JavaScript</p>
+<p>TypeScript</p>
+<p>React & Redux | Hooks</p>
+<p>NextJS</p>
+<p>Vue</p>
+<p>Vuex</p>
+<p>Nuxt</p>
+<p>TailwindCSS</p>
+<p>Bootstrap</p>
+<p>DaisyUI</p>
+<h3>Backend</h3>
+<p>Nest</p>
+<p>Arquitectura Hexagonal</p>
+<p>Loopback</p>
+<p>NodeJS</p>
+<p>Express</p>
+<h3>Bases de datos</h3>
+<p>Sequelize</p>
+<p>PostgreSQL</p>
+<p>SyBase</p>
+<p>MongoDB</p> 
+<p>MySQL</p> 
+<h3>Gestión y Control de versiones</h3>
+<p>Git & GitHub</p>
 <br>
 <h2>⚙ Otras Skills:</h2>
 <h3>Photoshop</h3>
