@@ -1,5 +1,5 @@
 
-<h1>🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
+<h1 style="{backgroundColor="yellow"}">🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
 
  <p>  Un Desarrollador Web FullStack con más de un año de experiencia formal.</p>
               <p>A mis 24 años, me identifico como una persona apasionada por el aprendizaje continuo, con la capacidad de trabajar de manera efectiva tanto en equipos colaborativos como de forma independiente.</p>
