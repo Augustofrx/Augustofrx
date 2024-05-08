@@ -1,11 +1,11 @@
 <h1>🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
 
  <p>  Un Desarrollador Web FullStack.</p>
-              <p>Me apasiona el aprendizaje continuo y transformar ideas complejas en soluciones a través de código. Busco un equipo donde pueda aportar mis conocimientos y seguir evolucionando profesionalmente.</p>
+              <p>Me apasiona el aprendizaje continuo y transformar ideas complejas en soluciones a través de código. <br> Busco un equipo donde pueda aportar mis conocimientos y seguir evolucionando profesionalmente.</p>
  <p>Valoro principios como el respeto, la honestidad y la responsabilidad.</p>
 <p>Mi experiencia se basa en la creación de soluciones personalizadas para clientes, enfocándome en la responsabilidad y atención a los detalles.
 </p>
-<p>Estoy emocionado por la oportunidad de contribuir con mi experiencia y habilidades en un entorno dinámico que fomente el crecimiento profesional. ¡Espero formar parte de un equipo pronto y seguir construyendo éxitos juntos! 🚀</p> 
+<p>Estoy emocionado por la oportunidad de contribuir con mi experiencia y habilidades en un entorno dinámico que fomente el crecimiento profesional. ¡Espero formar parte de un equipo pronto y seguir construyendo éxitos juntos!</p> 
             
 <br>
 <h2>🧩 Mis Tech Skills:</h2>
