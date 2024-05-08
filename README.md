@@ -1,13 +1,11 @@
-<div  style="background-color: black; color: white; padding: 20px;">
-<h1 style="background-color: #292929">🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
+<h1>🙋‍♂️ Hola, mi nombre es Augusto Iphar </h1>
 
- <p>  Un Desarrollador Web FullStack con más de un año de experiencia formal.</p>
-              <p>A mis 24 años, me identifico como una persona apasionada por el aprendizaje continuo, con la capacidad de trabajar de manera efectiva tanto en equipos colaborativos como de forma independiente.</p>
- <p>Me considero creativo, capaz de liderar y transformar ideas complejas en soluciones a través de código.</p>
-<p>Estoy en búsqueda de integrarme a un equipo donde pueda aportar mis conocimientos y seguir evolucionando profesionalmente.</p>
-<p>Para mi son muy importantes los principios como el respeto, la honestidad y la disposición para ayudar en todo momento.</p> 
-<p>Mi experiencia se basa en la ejecución de proyectos donde he creado soluciones adaptadas a los gustos y necesidades del cliente y mi enfoque se caracteriza por la responsabilidad y la atención a los detalles.</p>
-<p>Estoy emocionado por la oportunidad de aportar valor con mi experiencia y habilidades en un entorno dinámico que fomente el crecimiento profesional.</p> <p> ¡Espero formar parte de un equipo pronto y seguir construyendo éxitos juntos! 🚀</p> 
+ <p>  Un Desarrollador Web FullStack.</p>
+              <p>Me apasiona el aprendizaje continuo y transformar ideas complejas en soluciones a través de código. Busco un equipo donde pueda aportar mis conocimientos y seguir evolucionando profesionalmente.</p>
+ <p>Valoro principios como el respeto, la honestidad y la responsabilidad.</p>
+<p>Mi experiencia se basa en la creación de soluciones personalizadas para clientes, enfocándome en la responsabilidad y atención a los detalles.
+</p>
+<p>Estoy emocionado por la oportunidad de contribuir con mi experiencia y habilidades en un entorno dinámico que fomente el crecimiento profesional. ¡Espero formar parte de un equipo pronto y seguir construyendo éxitos juntos! 🚀</p> 
             
 <br>
 <h2>🧩 Mis Tech Skills:</h2>
@@ -42,4 +40,3 @@
 <h2>Pongámonos en contacto...</h2>
 <h3>📩 Email: ipharaugusto@gmail.com</h3>
 <h3>🧐 LinkedIn: https://www.linkedin.com/in/augustofrx/</h3>
-<div>
