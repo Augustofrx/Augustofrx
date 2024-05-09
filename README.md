@@ -5,7 +5,7 @@
 <p>Valoro principios como el respeto, la honestidad y la responsabilidad.</p>
 <p>Mi experiencia se basa en la creación de soluciones personalizadas para clientes, enfocándome en la responsabilidad y atención a los detalles.
 </p>
-<p>Estoy emocionado por la oportunidad de contribuir con mi experiencia y habilidades en un entorno dinámico que fomente el crecimiento profesional. ¡Espero formar parte de un equipo pronto y seguir construyendo éxitos juntos!</p> 
+<p>Estoy emocionado por la oportunidad de contribuir con mi experiencia y habilidades en un entorno dinámico que fomente el crecimiento profesional.</p> 
             
 <br>
 <h2>🧩 Mis Tech Skills:</h2>
